@@ -44,4 +44,4 @@ updates:
       - dependencies
       - github-actions
     commit-message:
-      prefix: chore(actions)
+      prefix: chore(actions) 
