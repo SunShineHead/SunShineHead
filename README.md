@@ -60,11 +60,6 @@ This project reflects my engineering direction:
 ## Engineering philosophy
 I believe strong engineering is built on:
 
-## GitHub status
-- Main project: Focused
-- Technical focus: Python, FastAPI, React, backend + frontend integration
-- Goal: build practical, maintainable, product-minded software
-
 ## GitHub Status
 
 <p align="center">
@@ -96,4 +91,4 @@ I believe strong engineering is built on:
 
 ## Connect
 - GitHub: https://www.github.com/sunshinehead
-- Repositories: https://linkedln/in/sunshinehead
+- Repositories: https://www.linkedln/in/sunshinehead
