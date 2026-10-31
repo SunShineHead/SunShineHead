@@ -59,18 +59,41 @@ This project reflects my engineering direction:
 
 ## Engineering philosophy
 I believe strong engineering is built on:
-- clarity over noise
-- reliability over complexity
-- maintainability over shortcuts
-- functionality over hype
-
-I’m learning to build software that is not just technically interesting, but genuinely useful.
 
 ## GitHub status
 - Main project: Focused
 - Technical focus: Python, FastAPI, React, backend + frontend integration
 - Goal: build practical, maintainable, product-minded software
 
+## GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SunShineHead&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunShineHead&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### Current focus
+- Full-stack engineering
+- Python and FastAPI backend development
+- React frontend integration
+- API design and product-minded architecture
+- Workflow automation and GitHub Actions
+
+### Main project
+- Focused — a practical full-stack starter project built with Python, FastAPI, React, and SQLite
+
+### Primary interests
+- Backend architecture
+- Security-aware API design
+- Product-driven development
+- Maintainable engineering systems
+- Practical software building
+
+> Building practical systems with clean engineering and product thinking.
+
 ## Connect
-- GitHub: https://github.com/SunShineHead
-- Repositories: https://github.com/SunShineHead?tab=repositories
+- GitHub: https://www.github.com/sunshinehead
+- Repositories: https://linkedln/in/sunshinehead
